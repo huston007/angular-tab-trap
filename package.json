@@ -1,11 +1,11 @@
 {
-  "name": "angular-tab-trap",
-  "version": "1.0.4",
+  "name": "angular-tab-trap-fork",
+  "version": "2.0.0",
   "description": "Tab trap for Angular",
   "main": "angular-tab-trap.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/myplanet/angular-tab-trap.git"
+    "url": "git://github.com/huston007/angular-tab-trap.git"
   },
   "keywords": [
     "angular",
@@ -18,6 +18,9 @@
     {
       "name": "Nick Matantsev",
       "email": "nick.m@myplanet.com"
+    }, {
+      "name": "Andrey Skladchikov",
+      "email": "andrey.skladchikov@gmail.com"
     }
   ],
   "license": "MIT",
