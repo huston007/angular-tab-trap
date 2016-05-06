@@ -1,5 +1,5 @@
 {
-  "name": "angular-tab-trap-fork",
+  "name": "@huston007/angular-tab-trap",
   "version": "2.0.0",
   "description": "Tab trap for Angular",
   "main": "angular-tab-trap.js",
